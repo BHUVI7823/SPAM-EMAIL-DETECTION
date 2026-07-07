@@ -242,8 +242,6 @@ Ham
 
 **Bhuvana Nagarajan**
 
-B.Tech Artificial Intelligence & Data Science
-
 Hindusthan Institute of Technology
 
 ---
